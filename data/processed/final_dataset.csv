@@ -1,0 +1,7 @@
+student_id,student_name,age,major,city,gpa,attendance,status,average_score,courses_count,scholarship_status,projects_count,performance_level,attendance_status
+1,Ahmed Ali,21.0,Computer Science,Sanaa,2.6,73,Inactive,90.0,2,Active,3.0,Excellent,Low
+2,Sara Mohammed,22.0,Artificial Intelligence,Aden,2.7,76,Inactive,78.5,2,Inactive,1.0,Good,Good
+3,Omar Hassan,20.0,Information Systems,Taiz,2.8,79,Inactive,68.5,2,Active,2.0,Acceptable,Good
+4,Mona Salem,25.0,Data Science,Sanaa,2.9,82,Active,95.0,1,Active,4.0,Excellent,Good
+6,Fatima Noor,22.0,Cyber Security,Aden,3.1,88,Active,0.0,0,,,At Risk,Good
+8,Nour Ahmed,23.0,Data Science,Sanaa,3.3,94,Active,0.0,0,,,At Risk,Good
